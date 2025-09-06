@@ -62,15 +62,4 @@ The goal is two-fold:
 
 ---
 
-## 📸 Sample Visualizations  
-(Add these plots as PNGs in a `/plots` folder and link them here)  
 
-- Correlation Heatmap  
-- Pairplot of Variables  
-- Residual Q-Q Plot  
-- Cook’s Distance (Outlier Detection)  
-
-
-![Heatmap](plots/heatmap.png)  
-![Residual Plot](plots/residuals.png)  
-![Cook’s Distance](plots/cooks.png)  
